@@ -385,13 +385,13 @@ _____
 	3. Unit of value | Inflation ruins this slightely or massively
 1. Commodity money and fiat money might not be so different, both have the 3 functions of money
 
-### Banking and the expansion of the money supply![[Pasted image 20221220202732.png]]
+### Banking and the expansion of the money supply![](./assets/Pasted%20image%2020221220202732.png)
 
 #### Takeaways
 - Central bank is what prints money (among other responsibilities)
 - In fractional reserve systems the bank can and will write checks and lend money to 3rd parties (1st is bank, 2nd is lender) as long as they have a fractional reserve as legislated by the law
-- How to calculate fractional reserve impact of some money, assuming banks reserve a constant percentage of that money![[Pasted image 20221220204424.png]]
-- Run on banks! You can ensure against it where the central banks pays everything the bank does not have![[Pasted image 20221220204653.png]]
+- How to calculate fractional reserve impact of some money, assuming banks reserve a constant percentage of that money![](./assets/Pasted%20image%2020221220204424.png)
+- Run on banks! You can ensure against it where the central banks pays everything the bank does not have![](./assets/Pasted%20image%2020221220204653.png)
 - Fractional reserve is unstable, handle with care
 - Fractional reserve is benefitial to customers since they can use banking services for free
 - Full reserve is what it sounds like, and the services aren't gonna be free
