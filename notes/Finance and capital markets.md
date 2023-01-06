@@ -1,26 +1,26 @@
 ## Interest and debt
 
 ### Credit cards and loans
-![[Pasted image 20221220225421.png]]
+![](./assets/Pasted%20image%2020221220225421.png)
 
 #### Takeaways
 - The APR (annual percentage rate) is not necessarily the amount of interest you pay! they might compound the interest daily, in that case it'll explode on u
-- Visa and Mastercard are network providers, they connect the world together https://www.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial/credit-card-interest/v/institutional-roles-in-issuing-and-processing-credit-cards ![[Pasted image 20221220225639.png]]
+- Visa and Mastercard are network providers, they connect the world together https://www.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial/credit-card-interest/v/institutional-roles-in-issuing-and-processing-credit-cards ![](./assets/Pasted%20image%2020221220225639.png)
 - Debit cards are virtual checking accounts, credit cards are virtual checking accounts that you pay after the month ends
 
 ### Compound interest basics Learn Interest basics Learn Credit cards and loans Learn Continuous compound interest and e
-![[Pasted image 20221220231226.png]]
+![](./assets/Pasted%20image%2020221220231226.png)
 
 #### Takeaways
 - $e$ is defines as limit x->inf (1 + 1/x)^x
-- The most amazing derivation of all time https://www.youtube.com/watch?v=o5QRdHH8aeQ&t=506s ![[Pasted image 20221220233626.png]]
-- Formula for compound interest (constant interest)![[Pasted image 20221220233600.png]]
+- The most amazing derivation of all time https://www.youtube.com/watch?v=o5QRdHH8aeQ&t=506s ![](./assets/Pasted%20image%2020221220233626.png)
+- Formula for compound interest (constant interest)![](./assets/Pasted%20image%2020221220233600.png)
 
 
 ## Housing
 
 ### Home equity and personal balance sheets
-![[Pasted image 20221221214519.png]]
+![](./assets/Pasted%20image%2020221221214519.png)
 
 #### Takeaways
 - Assets = Liabilities - Equity
@@ -44,14 +44,14 @@ A financial statement includes a balance sheet but also includes the following i
 [Source](https://www.indeed.com/career-advice/career-development/financial-statements-vs-balance-sheet)
 - Personal financial sheets are a valuable tools to one's gauge financial stability
 - [Square Enix Annual Financial Report 2022](https://www.hd.square-enix.com/eng/ir/library/pdf/ar_2022en.pdf)
-	- Spot the imposter ![[Pasted image 20221221223622.png]]
-- yahoo! finance is a great tool for financial data ![[Pasted image 20221221223802.png]] https://finance.yahoo.com/quote/SQNXF/balance-sheet/
+	- Spot the imposter ![](./assets/Pasted%20image%2020221221223622.png)
+- yahoo! finance is a great tool for financial data ![](./assets/Pasted%20image%2020221221223802.png) https://finance.yahoo.com/quote/SQNXF/balance-sheet/
 
 ### Renting vs. buying a home
-![[Pasted image 20221221225719.png]]
+![](./assets/Pasted%20image%2020221221225719.png)
 
 #### Takeaways
-- Quick analysis![[Pasted image 20221221230501.png]]
+- Quick analysis![](./assets/Pasted%20image%2020221221230501.png)
 	- Things to consider
 		- Loan type (how is the interest calculated?)
 		- Building equity 
@@ -64,7 +64,7 @@ A financial statement includes a balance sheet but also includes the following i
 		- List down all your assumptions and model the the future
 
 ### Mortgages
-![[Pasted image 20221230170514.png]]
+![](./assets/Pasted%20image%2020221230170514.png)
 
 #### Takeaways
 - A loan taken from the bank to buy a home
@@ -79,12 +79,12 @@ A financial statement includes a balance sheet but also includes the following i
 ## Taxes
  
 ### Personal taxes
-![[Pasted image 20221230233153.png]]
+![](./assets/Pasted%20image%2020221230233153.png)
 
 #### Takeaways
 - Bracketing follows the graph displayed here:
-![[Pasted image 20221231001947.png]]
-![[Pasted image 20221230233133.png]]
+![](./assets/Pasted%20image%2020221231001947.png)
+![](./assets/Pasted%20image%2020221230233133.png)
 - Tax deductable income is not deducted from the final tax you pay, it's deducted from your stated earnings
 - Alternative Minimum Tax is a floor you cannot cross when deducting tax, so you pay max(ADT, normal_tax)
 - Estate tax / Death tax is an incredibly interesting tax, applied after death of a person. WIthout it wealthy people will get wealthier 
@@ -93,37 +93,37 @@ A financial statement includes a balance sheet but also includes the following i
 ## Accounting and financial statements
 
 ### Cash versus accrual accounting && Three core financial statements
-![[Pasted image 20221231002215.png]]
+![](./assets/Pasted%20image%2020221231002215.png)
 
 #### Takeaways
 - Cash income statements are basic and count the transactions that happen hand to hand
 - Accrual income statements try to factor time out of the equation and provide a better view profits a place has
 - Accounts receivable (AR) is the money you're owed. (Accounts payable is the inverse, it's not showing in the graph)
 - Heres a graph of Cash and accrual techniques side by side
-![[Pasted image 20221231003407.png]]
+![](./assets/Pasted%20image%2020221231003407.png)
 - Three major financial statements
 	- Balance sheets are snapshots of assets and liabilities
 	- Income statements are income statements over a given period
 	- Cash flow statement describes differences in starting cash and ending cash, net income, AR increase
-![[Pasted image 20221231004432.png]]
+![](./assets/Pasted%20image%2020221231004432.png)
 - When evaluating assets after some period of time has passed you have two options
 	- Historical cost which evaluates assets based on their historical price
 	- Fair value in which an appraiser evaluates your assets based on the market. This is usually preferred
-![[Pasted image 20221231004830.png]]
+![](./assets/Pasted%20image%2020221231004830.png)
 
 ### Depreciation and amortization
-![[Pasted image 20221231005100.png]]
+![](./assets/Pasted%20image%2020221231005100.png)
 
 
 #### Takeaways
 - Depreciation is a way to spread out the cost of an assets over it's life span, to make balance sheets make more sense and convey the stability of a business. Pic 1 without depreciation, pic 2 with
-![[Pasted image 20221231010823.png]]
-![[Pasted image 20221231010847.png]]
+![](./assets/Pasted%20image%2020221231010823.png)
+![](./assets/Pasted%20image%2020221231010847.png)
 - Amortization is similar to depreciation, but often used with intangible assets like fees and licenses
 
 
 ## Stocks and bonds
-![[Pasted image 20221231011216.png]]
+![](./assets/Pasted%20image%2020221231011216.png)
 
 #### Takeaways
 - Shorting
@@ -139,7 +139,7 @@ A financial statement includes a balance sheet but also includes the following i
 	  - In the statement parathesied numbers are expenditures, real income statements might not do that
 	  - The two income statements shown differ in debt
   - Capital structure refers to the distribution of their assets from liabiltiies to equity. We can see that Ben's capital structure is more equity which is better for him probably
-![[Pasted image 20221231182027.png]]
+![](./assets/Pasted%20image%2020221231182027.png)
 - Markets can still buy stock with more than earning per share (EPS), in that case investors think there's an intangible asset that has not been counted such as benefitial future market shifts or company expertise, in that case buying for more than EPS might be a good idea. This case often happens with real companies
 - This is Market Capitalization vs. Book Capitalization
 - A good indicator of that difference is the PE ratio $PE = Stock Price / EPS$
@@ -165,18 +165,18 @@ The P/E ratio indirectly incorporates key fundamentals of the company such as fu
 - [Source](https://www.moneyworks4me.com/investmentshastra/what-is-pe-ratio-and-its-importance/)
 - PE can be a bad tool when considering enterprises with a lot of non operating capital, a good alternatives might be Enterprise Value (EV) $EV = Mkt.Cap. + Debt - Cash$. Google why formula like this. Also Operating Profit (OP). Also EBITDA but I need to finish fast no description
 
-![[Pasted image 20221231182511.png]]
+![](./assets/Pasted%20image%2020221231182511.png)
 - [Sample balance sheet](https://www.saudiexchange.sa/wps/portal/tadawul/market-participants/issuers/issuers-directory/company-details/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_Tx8nD0MLIy83V1DjA0czVx8nYP8PI0MDAz0I4EKzBEKDEJDLYEKjJ0DA11MjQzcTfXDyzJTy_XDCSkryE4yBQA8k2I6/?companySymbol=4001#chart_tab3) 
-![[Pasted image 20221231194943.png]]
+![](./assets/Pasted%20image%2020221231194943.png)
 - [Sample income statements](https://www.saudiexchange.sa/wps/portal/tadawul/market-participants/issuers/issuers-directory/company-details/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_Tx8nD0MLIy83V1DjA0czVx8nYP8PI0MDAz0I4EKzBEKDEJDLYEKjJ0DA11MjQzcTfXDyzJTy_XDCSkryE4yBQA8k2I6/?companySymbol=4001#chart_tab3)
-![[Pasted image 20221231194527.png]]
+![](./assets/Pasted%20image%2020221231194527.png)
 - Interesting random idea: When does it make more sense to raise money from debt vs equity? debt interest might be tax deductable, pros cons etc.
 - IPO = Initial Public Offering
 - VC = Venture Capitalist
 - Bankruptacy
 	- Liquidation of all assets, done if the busines generates no value
 	- Resturcturing of assets, done if the operating value is more than the liquid value and is voted and by capital holders
-		- The company is re-evaluated and voted on then new debt and new equity are assigned to capital holders starting from the most senior ![[Pasted image 20230107001936.png]] ![[Pasted image 20230107002023.png]]
-- Assets belong to the capital structure holders, debt then equity, and are organized in terms of seniority / priority ![[Pasted image 20230107000722.png]]
+		- The company is re-evaluated and voted on then new debt and new equity are assigned to capital holders starting from the most senior ![](./assets/Pasted%20image%2020230107001936.png) ![](./assets/Pasted%20image%2020230107002023.png)
+- Assets belong to the capital structure holders, debt then equity, and are organized in terms of seniority / priority ![](./assets/Pasted%20image%2020230107000722.png)
 - Secured debt means it's linked with a collateral (e.g. Mortage)
 - Stock dilution should be approved by the board
