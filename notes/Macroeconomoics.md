@@ -358,7 +358,7 @@ _____
 > The purpose of the financial system is to connect savers and borrowers. Savers store their wealth in ways that let them earn a return. Borrowers want to pursue projects, but they need money (from savers) to fund those projects. For example, if a firm wants to build a new factory, they might issue **bonds** and **stocks** to savers as a way to raise **financial assets** and get **real assets**. When borrowers buy those stocks and bonds, they are effectively lending money to these firms.
 
 
-## Nominal v. real interest rates
+### Nominal v. real interest rates
 ![[Pasted image 20221210180148.png]]
 
 #### Takeaways
@@ -372,3 +372,27 @@ _____
 ![[Pasted image 20221210190250.png]]
 
 #### Takeaways
+- Fractional reserve banking: Banks lending a portion of the money reserved in them to people for it to be spent on the economy
+- Money supply (volume of all money), can be defined in three ways
+	- M0: All cash
+	- M1: M1 + fractional reserve banking money
+	- M2: Nearly liquid assets, `financial assets that aren’t directly used for a medium of exchange, but can be converted into cash or a checking account`
+	- Video explaining them https://www.youtube.com/watch?v=w2tKg3E53DM
+- Double coincidences of wants
+- Functions of money
+	1. Medium of exchange
+	2. Store of value | Inflation affects this negatively, is there's an indicator of regression of this function
+	3. Unit of value | Inflation ruins this slightely or massively
+1. Commodity money and fiat money might not be so different, both have the 3 functions of money
+
+### Banking and the expansion of the money supply![[Pasted image 20221220202732.png]]
+
+#### Takeaways
+- Central bank is what prints money (among other responsibilities)
+- In fractional reserve systems the bank can and will write checks and lend money to 3rd parties (1st is bank, 2nd is lender) as long as they have a fractional reserve as legislated by the law
+- How to calculate fractional reserve impact of some money, assuming banks reserve a constant percentage of that money![[Pasted image 20221220204424.png]]
+- Run on banks! You can ensure against it where the central banks pays everything the bank does not have![[Pasted image 20221220204653.png]]
+- Fractional reserve is unstable, handle with care
+- Fractional reserve is benefitial to customers since they can use banking services for free
+- Full reserve is what it sounds like, and the services aren't gonna be free
+ 
